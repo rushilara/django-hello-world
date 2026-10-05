@@ -1,0 +1,13 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# Python / Django
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Secrets
+.env
