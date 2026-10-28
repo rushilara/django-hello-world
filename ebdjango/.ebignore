@@ -3,3 +3,6 @@ __pycache__/
 db.sqlite3
 .git/
 .env
+requirements-dev.txt
+.flake8
+.coveragerc
